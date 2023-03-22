@@ -9,8 +9,6 @@ KitaKode is a ...?. Feel free to visit regulary at https://kitakode.com as our w
 ### Acknowledgements
 
  - [Official Website KitaKode](https://kitakode.com/)
- - [Readable Documentation](https://kitakode.com/docs/)
- - [An Awesome Articles](https://kitakode.com/blog/)
  - ... (coming soon)
 
 ### Authors
