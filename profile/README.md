@@ -22,4 +22,4 @@ KitaKode was `</>` with :heart: by:
 
 ### License
 
-&copy; 2022-2023 [KitaKode](https://kitakode.com/) All rights reserved.
+&copy; 2022-2023 [KitaKode](https://kitakode.com/) - All rights reserved.
