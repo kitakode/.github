@@ -4,11 +4,12 @@
 
 ### About KitKode
 
-KitaKode is a ...?. Feel free to visit regulary at https://kitakode.com as our website. Thank you!
+KitaKode is a website agency based on Malang, Indonesia. Feel free to visit regulary at https://kitakode.com as our website. Thank you!
 
 ### Acknowledgements
 
  - [Official Website KitaKode](https://kitakode.com/)
+ - [Tailwind Neon](https://tailwind-neon.kitakode.com/)
  - ... (coming soon)
 
 ### Authors
